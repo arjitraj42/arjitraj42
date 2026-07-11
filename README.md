@@ -1,5 +1,21 @@
+## Hi there 👋
+
+<!--
+**arjitraj42/arjitraj42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arjit+Raj+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+JavaScript+%7C+React;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arjit+Raj+%F0%9F%91%8B;Full-Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+React;Building+Real-World+Projects" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +35,7 @@ const arjit = {
   education:  "B.Tech @ Lovely Professional University",
   focus:      ["Full-Stack Development", "Cybersecurity", "AI Integration"],
   stack:      {
-    languages:  ["Java", "JavaScript", "HTML", "CSS"],
+    languages:  ["C++", "JavaScript", "HTML", "CSS"],
     frontend:   ["React.js", "Tailwind CSS"],
     backend:    ["Node.js", "Express.js"],
     database:   ["MongoDB", "MySQL"],
@@ -36,7 +52,7 @@ const arjit = {
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -80,12 +96,12 @@ const arjit = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ Phishing Link Detector</h3>
+      <h3 align="center">🤖 AI Project</h3>
       <p align="center">
-        Java-based security tool to detect and flag malicious/phishing URLs.<br/><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        AI-powered project exploring intelligent automation and integration.<br/><br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <br/><br/>
-        <a href="https://github.com/arjitraj42/Phishing-Link-Detector">
+        <a href="https://github.com/arjitraj42/AI_Project">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -93,24 +109,26 @@ const arjit = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🚂 Railway Management System</h3>
+      <h3 align="center">🎵 Spotify Clone</h3>
       <p align="center">
-        Full-featured platform for booking, reviewing, and managing train tickets.<br/><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        A music streaming web app replicating core Spotify features.<br/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <br/><br/>
-        <a href="https://github.com/arjitraj42/RailwayManagmentSystem">
+        <a href="https://github.com/arjitraj42/Spotify-Clone">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📈 Stock Market Website</h3>
+      <h3 align="center">💰 Splitwise</h3>
       <p align="center">
-        Frontend web project tracking stock market data and trends.<br/><br/>
+        Expense-sharing app to track and split bills among groups.<br/><br/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <br/><br/>
-        <a href="https://github.com/arjitraj42/stock-Market">
+        <a href="https://github.com/arjitraj42/Splitwise">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -123,12 +141,12 @@ const arjit = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjitraj42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjitraj42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjitraj42&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjitraj42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjitraj42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
 </p>
 
 ---
@@ -136,7 +154,7 @@ const arjit = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjitraj42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arjitraj42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
 </p>
 
 ---
