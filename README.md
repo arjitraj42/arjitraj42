@@ -141,7 +141,7 @@ const arjit = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjitraj42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjitraj42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjitraj42&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </p>
 
@@ -154,7 +154,7 @@ const arjit = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjitraj42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arjitraj42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </p>
 
 ---
